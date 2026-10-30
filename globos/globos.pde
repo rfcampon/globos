@@ -8,7 +8,7 @@ class Globo
    x=_x;
    y=_y; 
    vx=random(-0.25,0.25);
-   vy=random(-2,-0.5);
+   vy=random(-4,-5);
    c = color(random(0,255), random(0,255), random(0,255)); //Hago que los colores de globos sean aleatorios
   }
 
