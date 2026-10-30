@@ -1,5 +1,6 @@
 class Globo
 {
+  //Atributos de la clase
   float x, y,vx,vy;
   color c; //Color del globo
   Globo (float _x, float _y)
